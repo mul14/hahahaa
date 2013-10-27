@@ -11,3 +11,5 @@
 |
 */
 
+Artisan::add(new Hills\Console\SetupCommand);
+Artisan::add(new Hills\Console\SetupRefreshCommand);

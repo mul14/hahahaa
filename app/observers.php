@@ -11,4 +11,4 @@ Event::subscribe('Hills\Logs\TaskLog');
  * Mail event
  */
 
-Event::subscribe('Hills\Mailers\UserMailer');
+// Event::subscribe('Hills\Mailers\UserMailer');
